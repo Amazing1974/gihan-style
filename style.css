@@ -18,3 +18,14 @@ body {
 .widthcustom {
   min-width: 950px;
 }
+
+.footer {
+  color: white;
+  background: #343a40;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer a {
+  color: white;
+}

@@ -65,3 +65,36 @@ body {
 .nav-item .three-item:hover {
   color: rgba(0,0,0,.5) !important;
 }
+
+.dropdown-item {
+  padding: 0.75rem!important;
+}
+
+.dropdown-menu {
+  padding: 0.75rem!important;
+}
+
+.navbar-brand {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 2rem;
+}
+
+.dropdown-toggle:after {
+  vertical-align: .130rem;
+}
+
+.btn-default {
+  color: #343a40;
+  background-color: white;
+  border-color: #343a40;
+}
+
+.btn-default:hover, .btn-primary:active {  
+  color: white;
+  background-color: #343a40;
+  border-color: white;
+}
+
+.btn:focus {
+  box-shadow: 0 0 0 0.2rem rgba(52,58,64,.15);
+}
